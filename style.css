@@ -1,0 +1,151 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+    margin: 0;
+    background:linear-gradient(yellow 0%, green 100%)
+ }
+ #tim{
+    border-radius: 50%;
+    width:160px;
+    height: 200px;
+    margin-bottom: 50px;
+ }
+ #home{
+    position: absolute;
+    height: 800px;
+    color: white;
+    left:0;
+    right:0;
+    top: 100px;;
+    bottom:0;
+    opacity: 0.83;
+    display:table;
+    width:100%;
+    height:100%;
+    z-index: 10;
+    text-align: center;
+ }
+ h1{
+    font-size: 40px;
+    font-weight: 300px;
+ }
+ #name{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    color: black;
+ }
+ h2{
+    font-size: 30px;
+    font-weight: 300px;
+    font-family: monospace;
+ }
+ 
+ #menu{
+    font-size: 30px;
+    font-weight: bold;
+    text-align:center;
+    background: white;
+    width:100%;
+    margin-top: 0px;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+ }
+ #sec2{
+    padding: 50px;
+    text-align: center;
+ }
+ 
+ .line{
+    background-color:black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+ }
+ p{
+    max-width: 450px;
+    margin:25px auto;
+    font-size: 18px;
+ }
+ #div1{
+    display: table;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    margin-left:275px;
+    margin-top:150px
+ }
+ #sec2{
+   color:linear-gradient(green 0%, blue 100%)
+ }
+ #S{
+   Border-radius:100%
+ }
+ #aks{
+   font-size: 50px
+ }
+ #adi{
+    height: 500px;
+    width:300px;
+ }
+ #bipan{
+   height: 250px;
+   width:150px;
+   border-radius: 20px;
+}
+#IAM{
+   font-family: 'Times New Roman', Times, serif;
+   color: black;
+}
+#ex{
+   font-family: fantasy;
+   color: black;
+}
+.ab{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nt1{
+   font-family: fantasy;
+}
+p{
+   font-family: fantasy;
+}
+.mail{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+}
+.links{
+   font-weight: 1000px;
+   color: black;
+   position: relative;
+   font-family: cursive;
+   display: inline;
+   padding-left: 33px;
+   padding-right: 33px;
+   font-size: 30px;
+   cursor:grab;
+}
+#contact{
+   margin-bottom: 300px;
+}
+
+.links:hover{
+   font-size:35px ;
+}
+#adi{
+   border-radius: 20px;
+   height:250px;
+   width:150px;
+}
+#subs{
+   background-color: red;
+   font-size: 50px;
+   font-weight: bold;
+   position: fixed;
+   right:20px;
+   border-radius:75% ;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: blue;
+   text-underline-position: unset;
+}
