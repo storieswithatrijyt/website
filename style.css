@@ -38,7 +38,7 @@ body{
  h2{
     font-size: 30px;
     font-weight: 300px;
-    font-family: monospace;
+    font-family: Georgia, 'Times New Roman', Times, serif;
  }
  
  #menu{
@@ -148,4 +148,10 @@ p{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    color: blue;
    text-underline-position: unset;
+}
+#qrcode{
+   color: black;
+   position: fixed;
+   left: 20px;
+   bottom: 50px;
 }
